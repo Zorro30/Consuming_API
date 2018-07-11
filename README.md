@@ -1,0 +1,1 @@
+This repo consists of code I have come across while learning about consuming an API.
