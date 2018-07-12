@@ -1,4 +1,4 @@
-This repo consists of code I have come across while learning about consuming an API.
+This repo consists of codes that I have come across while learning about consuming an API.
 
 => [consuming_API.py](https://github.com/Zorro30/Consuming_API/blob/master/consuming_api.py)
 
